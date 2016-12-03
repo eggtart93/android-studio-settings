@@ -12,10 +12,6 @@
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="shift equals" />
   </action>
-  <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="shift f1" />
-    <keyboard-shortcut first-keystroke="shift minus" />
-  </action>
   <action id="Help.KeymapReference">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
