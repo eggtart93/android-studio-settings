@@ -303,6 +303,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="1e1e1e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -442,7 +443,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="bc3f3c" />
+        <option name="EFFECT_COLOR" value="ca241c" />
         <option name="ERROR_STRIPE_COLOR" value="bc3f3c" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -616,7 +617,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="52503a" />
+        <option name="EFFECT_COLOR" value="ead500" />
         <option name="ERROR_STRIPE_COLOR" value="8c8c00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -635,7 +636,9 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bc3f3c" />
+        <option name="EFFECT_COLOR" value="bc231c" />
+        <option name="ERROR_STRIPE_COLOR" value="bc3f3c" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
